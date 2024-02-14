@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfShapeData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ShapeData xsi:type="RectangleData">
+    <Name>Rectangle</Name>
+    <Color />
+    <PosX>246</PosX>
+    <PosY>345</PosY>
+    <Side>120</Side>
+    <SecondSide>75</SecondSide>
+  </ShapeData>
+</ArrayOfShapeData>

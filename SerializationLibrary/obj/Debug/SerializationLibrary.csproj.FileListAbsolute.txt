@@ -1,0 +1,6 @@
+D:\CourseProject_OOP_Stage2\SerializationLibrary\bin\Debug\SerializationLibrary.dll
+D:\CourseProject_OOP_Stage2\SerializationLibrary\bin\Debug\SerializationLibrary.pdb
+D:\CourseProject_OOP_Stage2\SerializationLibrary\obj\Debug\SerializationLibrary.csproj.AssemblyReference.cache
+D:\CourseProject_OOP_Stage2\SerializationLibrary\obj\Debug\SerializationLibrary.csproj.CoreCompileInputs.cache
+D:\CourseProject_OOP_Stage2\SerializationLibrary\obj\Debug\SerializationLibrary.dll
+D:\CourseProject_OOP_Stage2\SerializationLibrary\obj\Debug\SerializationLibrary.pdb
